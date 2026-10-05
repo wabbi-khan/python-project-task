@@ -1,0 +1,5 @@
+# add imp files for python
+.env
+node_modules  
+dist
+*.local
